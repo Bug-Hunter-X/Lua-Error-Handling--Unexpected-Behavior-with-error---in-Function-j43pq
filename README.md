@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in Lua's error handling.  The example shows how an error() call within a function might not always provide sufficient context for easy debugging. The solution showcases better practices for error management, resulting in clearer error messages that pinpoint the problem's origin more effectively.
